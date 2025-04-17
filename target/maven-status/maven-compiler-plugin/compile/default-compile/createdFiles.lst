@@ -1,0 +1,4 @@
+com\example\demo\DemoApplication.class
+com\example\demo\model\Prenda.class
+com\example\demo\service\PrendaService.class
+com\example\demo\controller\PrendaController.class
